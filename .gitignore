@@ -1,0 +1,9 @@
+.DS_Store
+_build/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Archivos grandes (>100MB, límite de GitHub)
+Home_loan.csv
+LD2011_2014.txt

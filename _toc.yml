@@ -1,0 +1,94 @@
+format: jb-book
+root: intro
+
+parts:
+  - caption: "Semana 1 – Preprocesamiento de Datos"
+    chapters:
+      - file: "Semana 1 - Preprocesamiento de Datos/EDA"
+      - file: "Semana 1 - Preprocesamiento de Datos/Estadísticas"
+      - file: "Semana 1 - Preprocesamiento de Datos/Preprocesamiento de Datos (A) "
+      - file: "Semana 1 - Preprocesamiento de Datos/Preprocesamiento de Datos (Q)"
+      - file: "Semana 1 - Preprocesamiento de Datos/taller_preparcial_nocalificable"
+
+  - caption: "Semana 2 – Aprendizaje Supervisado: Modelos Lineales"
+    chapters:
+      - file: "Semana 2 - Aprendizaje Supervisado - Modelos Lineales/Regresion(A)"
+      - file: "Semana 2 - Aprendizaje Supervisado - Modelos Lineales/Regresion(Q)"
+      - file: "Semana 2 - Aprendizaje Supervisado - Modelos Lineales/Codigos Regresión Lineal Diapositivas"
+      - file: "Semana 2 - Aprendizaje Supervisado - Modelos Lineales/Regresion_logistica"
+      - file: "Semana 2 - Aprendizaje Supervisado - Modelos Lineales/Regresion_logistica_1"
+      - file: "Semana 2 - Aprendizaje Supervisado - Modelos Lineales/Regresion_logistica_2"
+      - file: "Semana 2 - Aprendizaje Supervisado - Modelos Lineales/Regresion_logistica_unbalance"
+      - file: "Semana 2 - Aprendizaje Supervisado - Modelos Lineales/Regresión_logística_multiclase"
+      - file: "Semana 2 - Aprendizaje Supervisado - Modelos Lineales/Solución_preparcial"
+      - file: "Semana 2 - Aprendizaje Supervisado - Modelos Lineales/Solución_preparcial_Pipelines"
+      - file: "Semana 2 - Aprendizaje Supervisado - Modelos Lineales/Solución_preparcial_preprocessing_complete"
+      - file: "Semana 2 - Aprendizaje Supervisado - Modelos Lineales/Base_datos_parcial1"
+      - file: "Semana 2 - Aprendizaje Supervisado - Modelos Lineales/Parcial_1"
+
+  - caption: "Semana 3 – Evaluación de Modelos"
+    chapters:
+      - file: "Semana 3 - Evaluación de Modelos/Validacion_cruzada_teoria"
+      - file: "Semana 3 - Evaluación de Modelos/Ejemplo_validacion_cruzada"
+
+  - caption: "Semana 4 – Aprendizaje Supervisado: Regularización"
+    chapters:
+      - file: "Semana 4 - Aprendizaje Supervisado - Regularización/Regularizacion"
+      - file: "Semana 4 - Aprendizaje Supervisado - Regularización/4.1 Ejemplo_regularizacion_regresion"
+      - file: "Semana 4 - Aprendizaje Supervisado - Regularización/4.2 Ejemplo_regularizacion_clasificacion"
+      - file: "Semana 4 - Aprendizaje Supervisado - Regularización/Grid_search"
+      - file: "Semana 4 - Aprendizaje Supervisado - Regularización/Ejercicio regularización"
+      - file: "Semana 4 - Aprendizaje Supervisado - Regularización/Ejercicio_classificacion_binaria"
+
+  - caption: "Semana 5 – Aprendizaje Supervisado: SVM y Árboles de Decisión"
+    chapters:
+      - file: "Semana 5 - Aprendizaje Supervisado - SVM, Arboles de decisión/Decision_trees"
+      - file: "Semana 5 - Aprendizaje Supervisado - SVM, Arboles de decisión/Decision_trees_2"
+      - file: "Semana 5 - Aprendizaje Supervisado - SVM, Arboles de decisión/Support_vector_machines"
+      - file: "Semana 5 - Aprendizaje Supervisado - SVM, Arboles de decisión/Ejemplo_classification_dt+svm"
+      - file: "Semana 5 - Aprendizaje Supervisado - SVM, Arboles de decisión/Ejemplo_comparando_modelos"
+
+  - caption: "Semana 6 – Aprendizaje Supervisado: Ensambles"
+    chapters:
+      - file: "Semana 6 - Ensambles/Ensemble learning"
+      - file: "Semana 6 - Ensambles/Ensambles_ejemplo_1"
+      - file: "Semana 6 - Ensambles/Ensambles_ejemplo_2"
+      - file: "Semana 6 - Ensambles/Shap_values"
+      - file: "Semana 6 - Ensambles/ejemplo_best_algorithm"
+      - file: "Semana 6 - Ensambles/taller_preparcial_2"
+      - file: "Semana 6 - Ensambles/taller_preparcial_2_Q"
+      - file: "Semana 6 - Ensambles/Punto_recuperación"
+      - file: "Semana 6 - Ensambles/Parcial II"
+
+  - caption: "Semana 7 – Ingeniería de Características"
+    chapters:
+      - file: "Semana 7 - Ingenieria de Caracteristicas/Ingenieria_de_Caracteristicas"
+
+  - caption: "Semana 8 – Aprendizaje No Supervisado: Agrupación"
+    chapters:
+      - file: "Semana 8 - Aprendizaje no Supervisado - Agrupación/Clustering"
+      - file: "Semana 8 - Aprendizaje no Supervisado - Agrupación/Example_clustering"
+      - file: "Semana 8 - Aprendizaje no Supervisado - Agrupación/Example_clustering_ok"
+      - file: "Semana 8 - Aprendizaje no Supervisado - Agrupación/Ejemplo_segmentacion"
+
+  - caption: "Semana 9 – Aprendizaje No Supervisado: Agrupación Avanzada"
+    chapters:
+      - file: "Semana 9 - Aprendizaje no Supervisado - Agrupación/Clustering_Avanzado"
+
+  - caption: "Semana 10 – Aprendizaje No Supervisado: Detección de Anomalías"
+    chapters:
+      - file: "Semana 10 - Aprendizaje no Supervisado - Detección de Anomalias/Anomaly_Detection_Credit_Card_Fraud"
+
+  - caption: "Semana 11 – Aprendizaje No Supervisado: Reducción de la Dimensionalidad"
+    chapters:
+      - file: "Semana 11  - Aprendizaje no Supervisado - Reducción de la Dimensionalidad/Reducción de la dimensionalidad"
+      - file: "Semana 11  - Aprendizaje no Supervisado - Reducción de la Dimensionalidad/Example_clustering_with_UMAP"
+      - file: "Semana 11  - Aprendizaje no Supervisado - Reducción de la Dimensionalidad/UMPA +Clustering"
+      - file: "Semana 11  - Aprendizaje no Supervisado - Reducción de la Dimensionalidad/Visualizacion"
+      - file: "Semana 11  - Aprendizaje no Supervisado - Reducción de la Dimensionalidad/Taller_preparcial_3 (A)"
+      - file: "Semana 11  - Aprendizaje no Supervisado - Reducción de la Dimensionalidad/Taller_preparcial_3 (Q)"
+      - file: "Semana 11  - Aprendizaje no Supervisado - Reducción de la Dimensionalidad/Parcial 3 (Q)"
+
+  - caption: "Semana 12 – Tópicos Prácticos"
+    chapters:
+      - file: "Semana 12 - Tópicos Prácticos_/Topicos_Practicos"
